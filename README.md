@@ -10,7 +10,7 @@
 
 🎨 On top of it all, I have a creative side, with skills in graphics and photography to enhance visual elements in projects.
 
-Let's connect on [LinkedIn](linkedin.com/in/sujit-bhagwat-838a15282) and collaborate on exciting projects!
+Let's connect on [LinkedIn](linkedin.com/in/sujit-bhagwat-838a15282/) and collaborate on exciting projects!
 <!---
 sujitjbhagwat/sujitjbhagwat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
